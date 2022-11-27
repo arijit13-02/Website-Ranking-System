@@ -1,0 +1,7 @@
+requests               
+mysql                  
+mysql-connector        
+mysql-connector-python 
+mysqlclient            
+beautifulsoup4         
+bs4                    
